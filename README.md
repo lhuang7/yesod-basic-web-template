@@ -1,4 +1,3 @@
-backoffice
-==========
+yesod-basic-web-template
 
-Back office Application for Plow Technologies
+Yesod basic web application template with angularjs, bootstrap3.0 and mysql
